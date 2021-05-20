@@ -1,2 +1,3 @@
-# GoldenBallFinder
-https://discord.gg/qcETfcvM
+# Golden BallF inder
+### more info
+[cowshed discord](https://discord.gg/qcETfcvM)
